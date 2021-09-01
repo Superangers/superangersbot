@@ -1,0 +1,12 @@
+{
+  "name": "superangersbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "superangers",
+  "dependencies": {
+    "discord.js": "^13.0.1"
+  },
+  "scripts": {
+    "start": "index.js"
+  }
+}
