@@ -94,5 +94,4 @@ function CheckCommand(message) {
 }
 
 
-Client.login(process.env.TOKEN);
-// token: ODc0OTcxMzU3OTA4MTk3Mzc2.YROukw.JXZVpOlJHZNP1Nev1uRKir4Nf78
+Client.login("ODc0OTcxMzU3OTA4MTk3Mzc2.YROukw.HjSSQOP5ONxnL1C6Qfo4hb8OXkU");
