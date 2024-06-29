@@ -94,4 +94,4 @@ function CheckCommand(message) {
 }
 
 
-Client.login("ODc0OTcxMzU3OTA4MTk3Mzc2.YROukw.HjSSQOP5ONxnL1C6Qfo4hb8OXkU");
+Client.login(TOKEN);
